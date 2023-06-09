@@ -1,7 +1,7 @@
 { "id": "flightwatch",
   "name": "Flight Watch",
   "shortName": "Flight Watch",
-  "version": "0.01",
+  "version": "0.02",
   "description": "Flight Watch",
   "icon": "app.png",
   "tags": "tool,bluetooth,widget",
