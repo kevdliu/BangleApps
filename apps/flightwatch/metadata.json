@@ -1,7 +1,7 @@
 { "id": "flightwatch",
   "name": "Flight Watch",
   "shortName": "Flight Watch",
-  "version": "0.02",
+  "version": "0.03",
   "description": "Flight Watch",
   "icon": "app.png",
   "tags": "tool,bluetooth,widget",
@@ -12,10 +12,12 @@
     {"name": "flightwatch.lib.js", "url": "lib.js"},
     {"name": "flightwatch.menu.js", "url": "menu.js"},
     {"name": "flightwatch.wid.js", "url": "wid.js"},
+    {"name": "flightwatch.agps.js", "url": "agps.js"},
     {"name": "flightwatch.img", "url": "app-icon.js", "evaluate": true}
   ],
   "data": [
     {"name":"flightwatch.app.data.json"},
-    {"name":"flightwatch.wid.data.json"}
+    {"name":"flightwatch.wid.data.json"},
+    {"name":"flightwatch.agps.data.json"}
   ]
 }
